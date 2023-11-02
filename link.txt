@@ -1,0 +1,3 @@
+https://medium.com/@dana.fatadilla123/scrape-data-in-real-estate-website-using-python-beautifulsoup-ce2f32579efd
+https://www.century21albania.com/en/properties?display=grid&city=Tirana
+https://github.com/adogb/housing-market-dk/blob/master/wrangling.py
